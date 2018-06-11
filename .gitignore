@@ -33,3 +33,4 @@
 
 *.vcxproj*
 Debug
+.DS_Store
