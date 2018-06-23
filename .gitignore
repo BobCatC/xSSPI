@@ -34,3 +34,5 @@
 *.vcxproj*
 Debug
 .DS_Store
+
+example.h
